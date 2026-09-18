@@ -1,4 +1,4 @@
-print("=== LIBRARIAN APPOINTMENT SYSTEM ===")
+print("=== LIBRARy APPOINTMENT SYSTEM ===")
 
 name = input("Enter your name: ")
 student_id = input("Enter your student ID: ")
